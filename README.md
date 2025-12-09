@@ -314,7 +314,7 @@ Designed and developed with attention to detail for high-end projects.
 
 Built with:
 
-- **Nuxt 4** — Vue framework
+- **Nuxt** — Vue framework
 - **Tailwind CSS** — Utility-first CSS
 - **TypeScript** — Type safety
 - **Pure CSS** — Zero animation dependencies
